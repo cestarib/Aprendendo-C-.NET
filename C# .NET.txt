@@ -1,0 +1,106 @@
+C# .NET
+
+Aula 1
+
+Sintaxe básica:
+
+
+namespace - endereço do projeto;
+
+ex : 
+namespace Aula01;
+
+criar classe:  public class Program {}
+
+criar método : public static void Main()
+
+digitar na tela = console.Writeline ("xxxxx");
+
+    namespace Aula01;
+
+    public class Program 
+    {
+	
+	public static void Main()
+	{
+
+	console.Writeline("iniciando .NET");
+	}
+
+    }
+
+
+
+Aula 2
+
+variáveis
+
+reutilização 
+
+// fazer comentário na linha
+/*........*/ texto
+
+string = texto				string myNmae = "bruno";
+int = inteiro				int number = 20;	// numero não tem ""	
+char = character			char character = 'a';  // aspas simples
+double = numero quebrado		double numberDouble = 10.5;
+bool = true or false			boll boolean = true;
+
+var variable =     // funciona com qq variável, vale a primeira atribuição;
+
+dynamic variable = // funciona com qq variável ,  vale a ultima atribuição;
+
+
+console.Writeline(" o valor da variável é :" + myName);
+
+//programa executa de cima para baixo, então o ultimo valor é o q vale;
+
+EX
+namespace Aula02;
+
+    public class Program 
+    {
+	
+	public static void Main()
+	{
+	string myNmae = "bruno";
+
+	myName = Cestari;
+
+	console.Writeline("o valor é: " +myName);
+	}
+
+    }
+// vai exibir "o valor é:Cestari";
+
+Aula03
+
+Constantes
+//não muda,  não consegue atribuir
+
+const int number = 1000;
+
+Aula04
+
+Input e Output
+
+string name = ConsoleReadLine(); // ler informação digitada
+int age = Convert.ToInt32(Console.ReadLine ()); // converter int em string
+
+Aula05
+
+Operadores Aritimeticos
+
+int number1 = 10;
+int number2 = 20;
+
+int sun = number1 + number 2; // soma
+int subtraction = number2  - number1; // subtração
+int multiplication = number1 * nimber2; // multiplicação
+int division = number2 / number1; // divisão
+int module = number2 % number1 // resto da divisão
+
+
+
+
+
