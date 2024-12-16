@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\",
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\web api\\webapi8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Migrations\\20241202190619_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241202190619_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\web api\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\web api\\webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\web api\\webapi8\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\web api\\webapi8\\webapi8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|c:\\users\\bruno\\documents\\github\\aprendendo-c-.net\\web api\\webapi8\\webapi8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{015317ED-B20A-487D-A1AA-08613F06CF96}|WebApi8.csproj|solutionrelative:webapi8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -35,62 +43,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241202190619_CriandoBancoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Migrations\\20241202190619_CriandoBancoDeDados.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241202190619_CriandoBancoDeDados.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Migrations\\20241202190619_CriandoBancoDeDados.cs",
+              "RelativeToolTip": "Migrations\\20241202190619_CriandoBancoDeDados.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:06:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:50:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-26T17:56:25.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LivroModel.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Models\\LivroModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Models\\LivroModel.cs",
               "RelativeDocumentMoniker": "Models\\LivroModel.cs",
-              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Models\\LivroModel.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Models\\LivroModel.cs",
               "RelativeToolTip": "Models\\LivroModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:42:46.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutorModel.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Models\\AutorModel.cs",
-              "RelativeDocumentMoniker": "Models\\AutorModel.cs",
-              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Models\\AutorModel.cs",
-              "RelativeToolTip": "Models\\AutorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:40:38.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T17:42:46.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WebApi8",
-              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\WebApi8.csproj",
-              "RelativeDocumentMoniker": "WebApi8.csproj",
-              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\WebApi8.csproj",
-              "RelativeToolTip": "WebApi8.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T17:38:41.835Z",
-              "EditorCaption": ""
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutorModel.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeToolTip": "Models\\AutorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:40:38.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "WebApi8.csproj",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\WebApi8.csproj",
+              "RelativeDocumentMoniker": "WebApi8.csproj",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\WebApi8.csproj",
+              "RelativeToolTip": "WebApi8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T17:38:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Web Api\\WebApi8\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Documents\\GitHub\\Aprendendo-C-.NET\\Web Api\\WebApi8\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
